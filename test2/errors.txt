@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 155: end of line expected.
+    Unknown "Satu satunya manusia yang hidup di bumi ini adalah Impusm!" linear 1.5 xalign 0.5 yalign 0.5
+                                                                         ^
+
+Ren'Py Version: Ren'Py 7.5.1.22070801
+Tue Feb  6 20:50:25 2024
